@@ -5,8 +5,8 @@
 
 ## Achievements
 
-- Designed and built two Apple Editor’s Choice productivity apps.
+- 2x Apple Editor’s Choice.
 - App Store Best of the Year in Productivity, 2013.
 - #2 Product Hunt daily launch.
 - Medium Top Writer in Productivity.
-- Reached inbox zero once.
+- Reached inbox zero, once.

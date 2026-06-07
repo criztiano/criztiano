@@ -1,7 +1,7 @@
 ## Things
 
-- **[Raycast GitHub Downloads](https://github.com/criztiano/raycast)** — download files from GitHub to `~/Downloads` with Raycast.
-- **[Apple Scripts](https://github.com/criztiano/apple-scripts)** — small AppleScript automation snippets.
+- ⬇️ **[Raycast GitHub Downloads](https://github.com/criztiano/raycast)** — download files from GitHub to `~/Downloads` with Raycast.
+- 🍎 **[Apple Scripts](https://github.com/criztiano/apple-scripts)** — small AppleScript automation snippets.
 
 ## Achievements
 
